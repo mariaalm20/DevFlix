@@ -1,0 +1,184 @@
+{
+  "categorias": [
+    {
+      "titulo": "ReactJs",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "CONSTRUTOR EM REACT #23 ",
+          "url": "https://www.youtube.com/watch?v=6og5d4aZ5mQ"
+        },
+        {
+          "titulo": "React JS - MELHOR GUIA para Iniciantes! (2020)",
+          "url": "https://www.youtube.com/watch?v=Ws9WVHhNq5M"
+        },
+        {
+          "titulo": "Twitter Responsivo com ReactJS | UI Clone",
+          "url": "https://www.youtube.com/watch?v=K-8z_4xvT3o"
+        },
+        {
+          "titulo": "React JS Curso Rápido ⚛️ Masterclass #1 2020 - 100% Prático!",
+          "url": "https://www.youtube.com/watch?v=XQxitgyZ_S4"
+        },
+        {
+          "titulo": "Iniciando no React JS - Tutorial em português",
+          "url": "https://www.youtube.com/watch?v=JMaFQMuaro0"
+        },
+        {
+          "titulo": "Controlando autenticação em rotas no ReactJS | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=sYe4r8WXGQg&t=170s"
+        },
+        {
+          "titulo": "O que é ReactJS? - Série ReactJS",
+          "url": "https://www.youtube.com/watch?v=cEczlv669Oo"
+        }
+      ]
+    },
+    {
+      "titulo": "Angular",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "O que é Angular e AngularJS? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=LFlNU30u7d8"
+        },
+        {
+          "titulo": "ANGULAR EM 7 MINUTOS - Tudo Que Você Precisa saber!",
+          "url": "https://www.youtube.com/watch?v=YX0y1FMlb8I"
+        },
+        {
+          "titulo": "AngularJS - Hello World - Aula 2",
+          "url": "https://www.youtube.com/watch?v=-gCJEGhsPQc&list=PLs8HfGdP-opu8nNOP6gnNdXrxE0n_V7s0&index=2"
+        }, 
+        {
+          "titulo": "Curso Angular #03: Hello, World! Criando primeiro projeto e o primeiro Componente",
+          "url": "https://www.youtube.com/watch?v=wBrIT2Z8t5I"
+        }
+      ]
+    },
+    {
+      "titulo": "VueJs",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "VueJS em 1 hora! (Teoria e prática)",
+          "url": "https://www.youtube.com/watch?v=cSa-SMVMGsE"
+        },
+        {
+          "titulo": "O que posso fazer com Vue.js?",
+          "url": "https://www.youtube.com/watch?v=zZxeH_U-R6A"
+        },
+        {
+          "titulo": "Vue.js, GraphQL e Node #1 - Primeiros Passos (FullStack JS)",
+          "url": "https://www.youtube.com/watch?v=TSX_hMfL13U"
+        },
+        {
+          "titulo": "Vue.js através de exemplos",
+          "url": "https://www.youtube.com/watch?v=mYIivScX2uk"
+        }
+      ]
+    },
+    {
+      "titulo": "React Native",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "React Native // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=mqltv3kFdgE"
+        },
+        {
+          "titulo": "Iniciando com React Native em 2019 | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA&t=224s"
+        },
+        {
+          "titulo": "Criando tela de login + Animações com React Native",
+          "url": "https://www.youtube.com/watch?v=pdFqfOTmd60"
+        },
+        {
+          "titulo": "REACT NATIVE - CRIANDO UM APP DO ZERO - PROGRAMADORBR - EP.54 - PARTE 1",
+          "url": "https://www.youtube.com/watch?v=RdcguVta_bs"
+        }
+      ]
+    },
+    {
+      "titulo": "Flutter",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "FLUTTER EM 6 MINUTOS: Tudo Que Você Precisa Saber para Começar!          ",
+          "url": "https://www.youtube.com/watch?v=jbAh5R8CH_o"
+        },
+        {
+          "titulo": "APP Flutter - Sua PRIMEIRA App COMPLETA",
+          "url": "https://www.youtube.com/watch?v=jyjdXFsQoYw"
+        },
+        {
+          "titulo": "Criando a Home do Nubank com Flutter - Por Renato Mota (Part 1)",
+          "url": "https://www.youtube.com/watch?v=46AJuWhKnsY"
+        },
+        {
+          "titulo": "Curso de Flutter - Introdução | por André Baltieri - balta.io",
+          "url": "https://www.youtube.com/watch?v=dA8Bbzw0_lo&list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ"
+        },
+        {
+          "titulo": "Apresentando Flutter",
+          "url": "https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
